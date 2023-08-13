@@ -1,0 +1,27 @@
+.title {
+    width: 600px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.text {
+    font-size: 30px;
+}
+
+.body {
+    width: 600px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.btn {
+    border: 1px solid black;
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+}
